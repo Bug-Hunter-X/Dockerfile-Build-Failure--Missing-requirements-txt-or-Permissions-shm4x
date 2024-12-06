@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles: failure to build due to issues with the requirements.txt file or insufficient permissions.  The original Dockerfile (`Dockerfile`) contains the error, while the solution (`Dockerfile.fixed`) provides a corrected version.
